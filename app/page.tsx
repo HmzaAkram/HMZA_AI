@@ -6,7 +6,7 @@ import remarkGfm from "remark-gfm";
 import { Button } from "@/components/ui/button";
 import {
   Card,
-  CardContent,
+  
   CardFooter,
   CardHeader,
   CardTitle,
